@@ -1,0 +1,11 @@
+{
+  "name": "API",
+  "version": "0.0.1",
+  "description": "...",
+  "dependencies": {
+    "mongodb": "^2.1.18",
+    "pg": "^6.1.0",
+    "pg-promise": "^5.3.5",
+    "q": "^1.4.1"
+  }
+}
